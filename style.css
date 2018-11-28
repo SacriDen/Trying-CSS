@@ -1,20 +1,15 @@
-﻿.clear {clear: both}
-#wrapper {width: 100%}
-#content {
-    width: 80%;
-    float: right;
-    background: rgb(255, 154, 154);
-    padding-left: 200px; /*Как сделать отступ?*/
+﻿body {
+    background: url(../pictures/flower.jpg) repeat-y;
+    background-size: cover;
 }
-#fixedPanel {
-    width: 20%;
-    max-width: 200px;
-    min-width: 30px;
-    height: 100%;
-    position: fixed;
-    top: 0;
-    left: 0;
-    background: rgb(155, 164, 248);
-    border-right: 20px solid #000000;
-    margin-right:30px;
+footer {
+
+}
+.header-main {
+width: 100%;
+float: center;
+
+}
+.header-logo {
+float: center;
 }
